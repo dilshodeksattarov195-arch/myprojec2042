@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authuncrypt",
+        "uuid": 10626568,
+        "checksum": "dpyif"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
